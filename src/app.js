@@ -80,5 +80,5 @@ app.get('*',(req,res)=>{
 
 
 app.listen(port,()=>{
-    console.log('server is up and running' + port)
+    console.log('server is up and running'+ port)
 })
